@@ -4,7 +4,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title>ECharts</title>
+  <title>月预算</title>
   <!-- 引入 echarts.js -->
   <script src="echarts.min.js"></script>
 </head>
@@ -13,7 +13,7 @@
   <!-- 为ECharts准备一个具备大小（宽高）的Dom -->
   <div id="main" style="width: 900px;height: 1000px;margin: auto;position: absolute;top: 0;left: 0;right: 0;bottom: 0;">
   </div>
-
+  
   <script type="text/javascript">
     //=== 预算使用率(手动更改)
     var b1 = 0.81;
@@ -22,7 +22,7 @@
     var b4 = 0.93;
     var b5 = 0.08;
     var b6 = 0.0;
-
+ 
     //==== 计算天数
     var date = new Date();           //当前日期
     var year = date.getFullYear();   //当前年
@@ -43,6 +43,7 @@
     var myChart = echarts.init(document.getElementById('main'));
     // 指定图表的配置项和数据
     var option = {
+      animation: false,
       title: { show: false, text: daysRatio },
       grid: {
         left: '3%',
@@ -50,7 +51,7 @@
         bottom: '3%',
         containLabel: true
       },
-
+      
       yAxis: {
         type: 'category',
         axisTick: { show: false },

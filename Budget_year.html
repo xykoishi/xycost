@@ -4,7 +4,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title>ECharts</title>
+  <title>年预算</title>
   <!-- 引入 echarts.js -->
   <script src="echarts.min.js"></script>
 </head>
@@ -37,6 +37,7 @@
     var myChart = echarts.init(document.getElementById('main'));
     // 指定图表的配置项和数据
     var option = {
+      animation: false,
       title: { show: false, text: daysRatio },
       grid: {
         left: '3%',
