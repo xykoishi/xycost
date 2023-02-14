@@ -1,3 +1,96 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+
+    <script>
+        L_NO_TOUCH = false;
+        L_DISABLE_3D = false;
+    </script>
+
+    <style>
+        html,
+        body {
+            width: 100%;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+    <style>
+        #map {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            right: 0;
+            left: 0;
+        }
+    </style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script
+        src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css" />
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css" />
+    <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css" />
+
+    <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <style>
+        #map_MarkerTrans {
+            position: relative;
+            width: 100.0%;
+            height: 100.0%;
+            left: 0.0%;
+            top: 0.0%;
+        }
+
+        .leaflet-container {
+            font-size: 1rem;
+        }
+    </style>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/leaflet.markercluster.js"></script>
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.css" />
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.Default.css" />
+</head>
+
+<body>
+    <div class="folium-map" id="map_MarkerTrans"></div>
+</body>
+<script>
+    var map_MarkerTrans = L.map(
+        "map_MarkerTrans",
+        {
+            center: [31.128534867955743, 136.82907282549647],
+            crs: L.CRS.EPSG3857,
+            zoom: 5,
+            zoomControl: true,
+            preferCanvas: false,
+        }
+    );
+
+    var tile_layer_dd36344b07fc4b9ae9783a9aa8c2b7ad = L.tileLayer(
+        "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png",
+        { "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors \u0026copy; \u003ca href=\"https://carto.com/attributions\"\u003eCARTO\u003c/a\u003e", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false }
+    ).addTo(map_MarkerTrans);
+
+
+    var marker_cluster_Trans = L.markerClusterGroup(
+        {}
+    );
+    map_MarkerTrans.addLayer(marker_cluster_Trans);
+
 var marker_2023021417982 = L.marker([35.15645439274168, 136.9661583659583],{}).addTo(marker_cluster_Trans);
 var popup_2023021417982 = L.popup({"maxWidth": 500});
 var html_2023021417982 = $(`<div id="html_2023021417982" style="width: 100.0%; height: 100.0%;">🛒生活费 (食堂): JP¥ 627 [23.2.14]</div>`)[0];popup_2023021417982.setContent(html_2023021417982);marker_2023021417982.bindPopup(popup_2023021417982);
@@ -325,3 +418,5 @@ var html_2023020912567 = $(`<div id="html_2023020912567" style="width: 100.0%; h
 var marker_2023020919135 = L.marker([35.15346614085399, 136.9503577712015],{}).addTo(marker_cluster_Trans);
 var popup_2023020919135 = L.popup({"maxWidth": 500});
 var html_2023020919135 = $(`<div id="html_2023020919135" style="width: 100.0%; height: 100.0%;">🛒生活费 (超市): JP¥ 1536 [23.2.9]</div>`)[0];popup_2023020919135.setContent(html_2023020919135);marker_2023020919135.bindPopup(popup_2023020919135);
+</script>
+</html>
