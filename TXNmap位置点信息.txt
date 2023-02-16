@@ -1,3 +1,7 @@
+var marker_2023021613411 = L.marker([35.1536289452978, 136.9628487285942],{}).addTo(marker_cluster_Trans);
+var popup_2023021613411 = L.popup({"maxWidth": 500});
+var html_2023021613411 = $(`<div id="html_2023021613411" style="width: 100.0%; height: 100.0%;">🛒生活费 (食堂): JP¥ 473 [23.2.16]</div>`)[0];popup_2023021613411.setContent(html_2023021613411);marker_2023021613411.bindPopup(popup_2023021613411);
+
 var marker_2023021517957 = L.marker([35.15656996722585, 136.9659301833258],{}).addTo(marker_cluster_Trans);
 var popup_2023021517957 = L.popup({"maxWidth": 500});
 var html_2023021517957 = $(`<div id="html_2023021517957" style="width: 100.0%; height: 100.0%;">🛒生活费 (627): JP¥ 627 [23.2.15]</div>`)[0];popup_2023021517957.setContent(html_2023021517957);marker_2023021517957.bindPopup(popup_2023021517957);
