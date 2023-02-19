@@ -70,7 +70,7 @@
         "day": "6",
         "category": "\ud83c\udf7b\u793e\u4ea4\u8d39",
         "description": "\u4e1c\u5317\u5927\u51b7\u9762",
-        "amount": "CN\u00a5158"
+        "amount": "JP\u00a53150"
       }
     },
     {
@@ -600,8 +600,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.188473,
-          34.688299
+          135.192751,
+          34.693064
         ]
       },
       "properties": {
@@ -618,8 +618,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.188473,
-          34.688299
+          135.188263,
+          34.68828
         ]
       },
       "properties": {
@@ -691,7 +691,7 @@
         "type": "Point",
         "coordinates": [
           136.969319,
-          35.155831
+          35.15583
         ]
       },
       "properties": {
@@ -871,7 +871,7 @@
         "type": "Point",
         "coordinates": [
           136.951407,
-          35.152082
+          35.152083
         ]
       },
       "properties": {
