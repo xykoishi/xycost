@@ -1,4 +1,4 @@
-# Readme
+# xycost
 记录我的个人预算
 
 ### TXN map
