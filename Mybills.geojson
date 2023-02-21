@@ -1548,6 +1548,42 @@
         "description": "\u8d85\u5e02",
         "amount": "JP\u00a53718"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.965788,
+          35.156528
+        ]
+      },
+      "properties": {
+        "year": "2023",
+        "month": "2",
+        "day": "20",
+        "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
+        "description": "\u98df\u5802",
+        "amount": "JP\u00a5561"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.963194,
+          35.154099
+        ]
+      },
+      "properties": {
+        "year": "2023",
+        "month": "2",
+        "day": "20",
+        "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
+        "description": "\u9e21\u86cb",
+        "amount": "JP\u00a5103.8"
+      }
     }
   ]
 }
