@@ -1,5 +1,4 @@
 from geojson import Point, Feature, FeatureCollection, dump
-import numpy as np
 import csv
 
 CsvFile = 'Mybills.csv'
