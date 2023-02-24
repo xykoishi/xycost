@@ -1728,6 +1728,60 @@
         "description": "\u4fbf\u5f53",
         "amount": "JP\u00a5550"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.958091,
+          35.152139
+        ]
+      },
+      "properties": {
+        "year": "2023",
+        "month": "2",
+        "day": "23",
+        "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
+        "description": "AutoSleep",
+        "amount": "CN\u00a530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.9615,
+          35.15454
+        ]
+      },
+      "properties": {
+        "year": "2023",
+        "month": "2",
+        "day": "24",
+        "category": "\ud83d\udcd6\u81ea\u6211\u6295\u8d44",
+        "description": "Bullet Journal",
+        "amount": "JP\u00a51760"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.965903,
+          35.156599
+        ]
+      },
+      "properties": {
+        "year": "2023",
+        "month": "2",
+        "day": "24",
+        "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
+        "description": "\u98df\u5802",
+        "amount": "JP\u00a5616"
+      }
     }
   ]
 }
