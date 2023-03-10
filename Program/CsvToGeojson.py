@@ -6,7 +6,7 @@
 
 from geojson import Point, Feature, FeatureCollection, dump
 import csv
-
+    
 
 # In[20]:
 

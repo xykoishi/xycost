@@ -2826,6 +2826,96 @@
         "description": "\u516c\u4ea4",
         "amount": "JP\u00a5210"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.950384,
+          35.153384
+        ]
+      },
+      "properties": {
+        "year": "2023",
+        "month": "3",
+        "day": "8",
+        "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
+        "description": "\u8d85\u5e02",
+        "amount": "JP\u00a52280"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.962967,
+          35.153931
+        ]
+      },
+      "properties": {
+        "year": "2023",
+        "month": "3",
+        "day": "9",
+        "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
+        "description": "\u5305\u5b50",
+        "amount": "JP\u00a5140"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.962754,
+          35.153515
+        ]
+      },
+      "properties": {
+        "year": "2023",
+        "month": "3",
+        "day": "9",
+        "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
+        "description": "\u98df\u5802",
+        "amount": "JP\u00a5550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.963081,
+          35.153901
+        ]
+      },
+      "properties": {
+        "year": "2023",
+        "month": "3",
+        "day": "9",
+        "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
+        "description": "\u5496\u5561",
+        "amount": "JP\u00a590"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.962821,
+          35.153494
+        ]
+      },
+      "properties": {
+        "year": "2023",
+        "month": "3",
+        "day": "10",
+        "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
+        "description": "\u98df\u5802",
+        "amount": "JP\u00a5550"
+      }
     }
   ]
 }
