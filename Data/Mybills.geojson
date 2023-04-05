@@ -11,9 +11,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "1",
-        "day": "6",
+        "year": 2023,
+        "month": 1,
+        "day": 6,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u8d85\u5e02",
         "amount": "JP\u00a55250"
@@ -29,9 +29,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "1",
-        "day": "6",
+        "year": 2023,
+        "month": 1,
+        "day": 6,
         "category": "\ud83d\udc3c\u7279\u522b\u652f\u51fa",
         "description": "\u897f\u672c\u667a\u5b9e\u97f3\u4e50\u4f1a\u95e8\u7968",
         "amount": "JP\u00a56400"
@@ -47,9 +47,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "1",
-        "day": "6",
+        "year": 2023,
+        "month": 1,
+        "day": 6,
         "category": "\ud83d\udc54\u670d\u9970\u2022\u8da3\u5473\u8d39",
         "description": "\u4e70\u6a21\u578b\u5168\u90e8",
         "amount": "JP\u00a55192"
@@ -65,9 +65,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "1",
-        "day": "6",
+        "year": 2023,
+        "month": 1,
+        "day": 6,
         "category": "\ud83c\udf7b\u793e\u4ea4\u8d39",
         "description": "\u4e1c\u5317\u5927\u51b7\u9762",
         "amount": "JP\u00a53150"
@@ -83,9 +83,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "1",
-        "day": "6",
+        "year": 2023,
+        "month": 1,
+        "day": 6,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u9762\u6761 \u624b\u6293\u997c \u6cb9\u6761",
         "amount": "JP\u00a52441"
@@ -101,9 +101,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "1",
-        "day": "6",
+        "year": 2023,
+        "month": 1,
+        "day": 6,
         "category": "\ud83c\udf7b\u793e\u4ea4\u8d39",
         "description": "\u516c\u4ea4\u5730\u94c1",
         "amount": "JP\u00a5481"
@@ -119,9 +119,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "1",
-        "day": "6",
+        "year": 2023,
+        "month": 1,
+        "day": 6,
         "category": "\ud83d\udc54\u670d\u9970\u2022\u8da3\u5473\u8d39",
         "description": "\u88e4\u5b50\u9000\u8d27\u7dcf\u8d39",
         "amount": "JP\u00a51280"
@@ -137,9 +137,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "1",
-        "day": "6",
+        "year": 2023,
+        "month": 1,
+        "day": 6,
         "category": "\ud83d\udc8a\u5065\u5eb7\u533b\u836f\u8d39",
         "description": "\u723d\u80a4\u6c34 \u4fdd\u6e7f\u556b\u55b1",
         "amount": "JP\u00a56300"
@@ -155,9 +155,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "1",
-        "day": "6",
+        "year": 2023,
+        "month": 1,
+        "day": 6,
         "category": "\ud83d\udcd6\u81ea\u6211\u6295\u8d44",
         "description": "\u300a\u5c0f\u72d7\u94b1\u94b1\u300b",
         "amount": "JP\u00a51015"
@@ -173,9 +173,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "1",
-        "day": "6",
+        "year": 2023,
+        "month": 1,
+        "day": 6,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u8d85\u5e02",
         "amount": "JP\u00a5734"
@@ -191,9 +191,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "1",
-        "day": "6",
+        "year": 2023,
+        "month": 1,
+        "day": 6,
         "category": "\ud83c\udf7b\u793e\u4ea4\u8d39",
         "description": "\u9ebb\u8fa3\u4e32\u4e32",
         "amount": "JP\u00a51500"
@@ -209,9 +209,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "1",
-        "day": "6",
+        "year": 2023,
+        "month": 1,
+        "day": 6,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u624e\u5e26",
         "amount": "JP\u00a5110"
@@ -227,9 +227,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "1",
-        "day": "6",
+        "year": 2023,
+        "month": 1,
+        "day": 6,
         "category": "\ud83c\udf7b\u793e\u4ea4\u8d39",
         "description": "\u5c71\u3061\u3083\u3093\u00a0 \u540d\u7269",
         "amount": "JP\u00a53200"
@@ -245,9 +245,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "1",
-        "day": "6",
+        "year": 2023,
+        "month": 1,
+        "day": 6,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u8d85\u5e02",
         "amount": "JP\u00a5287"
@@ -263,9 +263,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "1",
-        "day": "6",
+        "year": 2023,
+        "month": 1,
+        "day": 6,
         "category": "\ud83d\udc54\u670d\u9970\u2022\u8da3\u5473\u8d39",
         "description": "United Tokyo",
         "amount": "JP\u00a525180"
@@ -281,9 +281,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "1",
-        "day": "7",
+        "year": 2023,
+        "month": 1,
+        "day": 7,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u7259\u818f2\u652f",
         "amount": "JP\u00a5550"
@@ -299,9 +299,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "1",
-        "day": "7",
+        "year": 2023,
+        "month": 1,
+        "day": 7,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u8d85\u5e02",
         "amount": "JP\u00a51042"
@@ -317,9 +317,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "1",
-        "day": "8",
+        "year": 2023,
+        "month": 1,
+        "day": 8,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u8d85\u5e02",
         "amount": "JP\u00a53196"
@@ -335,9 +335,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "1",
-        "day": "9",
+        "year": 2023,
+        "month": 1,
+        "day": 9,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u9762\u5305 \u70e4\u9c7c",
         "amount": "JP\u00a5494"
@@ -353,9 +353,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "1",
-        "day": "10",
+        "year": 2023,
+        "month": 1,
+        "day": 10,
         "category": "\ud83d\udef8\u5176\u4ed6",
         "description": "\u5357\u822a\u91cc\u7a0b\u6362\u5c0f\u7535\u996d\u7172",
         "amount": "CN\u00a592.7"
@@ -371,9 +371,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "1",
-        "day": "11",
+        "year": 2023,
+        "month": 1,
+        "day": 11,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u98df\u5802",
         "amount": "JP\u00a5612"
@@ -389,9 +389,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "1",
-        "day": "13",
+        "year": 2023,
+        "month": 1,
+        "day": 13,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u98df\u5802",
         "amount": "JP\u00a5530"
@@ -407,9 +407,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "1",
-        "day": "14",
+        "year": 2023,
+        "month": 1,
+        "day": 14,
         "category": "\u26a0\ufe0f\u9884\u7b97\u5916\u7279\u522b\u652f\u51fa",
         "description": "SONY A7M4 \u5168\u5957",
         "amount": "CN\u00a525000"
@@ -425,9 +425,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "1",
-        "day": "14",
+        "year": 2023,
+        "month": 1,
+        "day": 14,
         "category": "\ud83c\udf7b\u793e\u4ea4\u8d39",
         "description": "\u5403\u996d\u805a\u9910",
         "amount": "JP\u00a57000"
@@ -443,9 +443,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "1",
-        "day": "15",
+        "year": 2023,
+        "month": 1,
+        "day": 15,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u8d85\u5e02",
         "amount": "JP\u00a55086"
@@ -461,9 +461,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "1",
-        "day": "16",
+        "year": 2023,
+        "month": 1,
+        "day": 16,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u9e21\u80f8\u8089",
         "amount": "JP\u00a5218"
@@ -479,9 +479,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "1",
-        "day": "17",
+        "year": 2023,
+        "month": 1,
+        "day": 17,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u98df\u5802",
         "amount": "JP\u00a5583"
@@ -497,9 +497,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "1",
-        "day": "18",
+        "year": 2023,
+        "month": 1,
+        "day": 18,
         "category": "\ud83d\udc3c\u7279\u522b\u652f\u51fa",
         "description": "\u897f\u672c\u667a\u5b9e\u97f3\u4e50\u4f1a\u8f66\u7968",
         "amount": "JP\u00a511560"
@@ -515,9 +515,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "1",
-        "day": "19",
+        "year": 2023,
+        "month": 1,
+        "day": 19,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u98df\u5802 \u996d\u56e2",
         "amount": "JP\u00a5763"
@@ -533,9 +533,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "1",
-        "day": "19",
+        "year": 2023,
+        "month": 1,
+        "day": 19,
         "category": "\ud83d\udc3c\u7279\u522b\u652f\u51fa",
         "description": "\u5bbd\u5e26\u89e3\u7ea6\u8d39",
         "amount": "JP\u00a510450"
@@ -551,9 +551,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "1",
-        "day": "20",
+        "year": 2023,
+        "month": 1,
+        "day": 20,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u98df\u5802",
         "amount": "JP\u00a5517"
@@ -569,9 +569,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "1",
-        "day": "21",
+        "year": 2023,
+        "month": 1,
+        "day": 21,
         "category": "\ud83d\udc3c\u7279\u522b\u652f\u51fa",
         "description": "\u4ea4\u901a\u8d39",
         "amount": "JP\u00a5500"
@@ -587,9 +587,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "1",
-        "day": "21",
+        "year": 2023,
+        "month": 1,
+        "day": 21,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u8d85\u5e02",
         "amount": "JP\u00a54005"
@@ -605,9 +605,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "1",
-        "day": "22",
+        "year": 2023,
+        "month": 1,
+        "day": 22,
         "category": "\ud83d\udc3c\u7279\u522b\u652f\u51fa",
         "description": "\u4ea4\u901a\u8d39",
         "amount": "JP\u00a52000"
@@ -623,9 +623,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "1",
-        "day": "22",
+        "year": 2023,
+        "month": 1,
+        "day": 22,
         "category": "\ud83d\udc3c\u7279\u522b\u652f\u51fa",
         "description": "\u751f\u714e\u6c34\u997a",
         "amount": "CN\u00a549.53"
@@ -641,9 +641,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "1",
-        "day": "25",
+        "year": 2023,
+        "month": 1,
+        "day": 25,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u98df\u5802 \u5496\u5561",
         "amount": "JP\u00a5900"
@@ -659,9 +659,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "1",
-        "day": "25",
+        "year": 2023,
+        "month": 1,
+        "day": 25,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u98df\u5802 \u996d\u56e2",
         "amount": "JP\u00a5485"
@@ -677,9 +677,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "1",
-        "day": "26",
+        "year": 2023,
+        "month": 1,
+        "day": 26,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u5496\u5561",
         "amount": "JP\u00a5220"
@@ -695,9 +695,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "1",
-        "day": "26",
+        "year": 2023,
+        "month": 1,
+        "day": 26,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u98df\u5802",
         "amount": "JP\u00a5814"
@@ -713,9 +713,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "1",
-        "day": "26",
+        "year": 2023,
+        "month": 1,
+        "day": 26,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u575a\u679c",
         "amount": "JP\u00a5320"
@@ -731,9 +731,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "1",
-        "day": "27",
+        "year": 2023,
+        "month": 1,
+        "day": 27,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u98df\u5802",
         "amount": "JP\u00a52000"
@@ -749,9 +749,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "1",
-        "day": "28",
+        "year": 2023,
+        "month": 1,
+        "day": 28,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u5496\u5561",
         "amount": "JP\u00a5110"
@@ -767,9 +767,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "1",
-        "day": "28",
+        "year": 2023,
+        "month": 1,
+        "day": 28,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u4ea4\u901a",
         "amount": "JP\u00a5240"
@@ -785,9 +785,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "1",
-        "day": "28",
+        "year": 2023,
+        "month": 1,
+        "day": 28,
         "category": "\ud83d\udc8a\u5065\u5eb7\u533b\u836f\u8d39",
         "description": "\u770b\u54b3\u55fd",
         "amount": "JP\u00a54130"
@@ -803,9 +803,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "1",
-        "day": "28",
+        "year": 2023,
+        "month": 1,
+        "day": 28,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u624b\u5957 \u5783\u573e\u888b",
         "amount": "JP\u00a5220"
@@ -821,9 +821,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "1",
-        "day": "28",
+        "year": 2023,
+        "month": 1,
+        "day": 28,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u8d85\u5e02",
         "amount": "JP\u00a51993"
@@ -839,9 +839,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "1",
-        "day": "28",
+        "year": 2023,
+        "month": 1,
+        "day": 28,
         "category": "\ud83d\udc54\u670d\u9970\u2022\u8da3\u5473\u8d39",
         "description": "\u889c\u5b50",
         "amount": "JP\u00a5780"
@@ -857,9 +857,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "1",
-        "day": "28",
+        "year": 2023,
+        "month": 1,
+        "day": 28,
         "category": "\ud83d\udc8a\u5065\u5eb7\u533b\u836f\u8d39",
         "description": "\u7ef4\u751f\u7d20B \u4e24\u74f6",
         "amount": "JP\u00a51256"
@@ -875,9 +875,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "1",
-        "day": "28",
+        "year": 2023,
+        "month": 1,
+        "day": 28,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u516b\u767e\u9c9c",
         "amount": "JP\u00a5665"
@@ -893,9 +893,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "1",
-        "day": "28",
+        "year": 2023,
+        "month": 1,
+        "day": 28,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u8d85\u5e02",
         "amount": "JP\u00a52501"
@@ -911,9 +911,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "1",
-        "day": "29",
+        "year": 2023,
+        "month": 1,
+        "day": 29,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u80a5\u7682\u6db2\u00a0 \u7eb8\u5e01\u888b\u5b50",
         "amount": "JP\u00a53422"
@@ -929,9 +929,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "1",
+        "year": 2023,
+        "month": 2,
+        "day": 1,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u98df\u5802",
         "amount": "JP\u00a5440"
@@ -947,9 +947,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "1",
+        "year": 2023,
+        "month": 2,
+        "day": 1,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u98df\u5802",
         "amount": "JP\u00a5550"
@@ -965,9 +965,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "1",
+        "year": 2023,
+        "month": 2,
+        "day": 1,
         "category": "\ud83d\udcbc\u516c\u8d39\u652f\u51fa",
         "description": "IIP2023\u767b\u9332\u8cbb",
         "amount": "JP\u00a510000"
@@ -983,9 +983,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "2",
+        "year": 2023,
+        "month": 2,
+        "day": 2,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u98df\u5802",
         "amount": "JP\u00a5429"
@@ -1001,9 +1001,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "2",
+        "year": 2023,
+        "month": 2,
+        "day": 2,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "Widget Web",
         "amount": "CN\u00a518"
@@ -1019,9 +1019,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "3",
+        "year": 2023,
+        "month": 2,
+        "day": 3,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u8d85\u5e02",
         "amount": "JP\u00a53822"
@@ -1037,9 +1037,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "3",
+        "year": 2023,
+        "month": 2,
+        "day": 3,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u7269\u4ea7\u5e97",
         "amount": "CN\u00a5177.86"
@@ -1055,9 +1055,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "3",
+        "year": 2023,
+        "month": 2,
+        "day": 3,
         "category": "\ud83c\udf7b\u793e\u4ea4\u8d39",
         "description": "\u9ebb\u8fa3\u70eb",
         "amount": "CN\u00a5120"
@@ -1073,9 +1073,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "4",
+        "year": 2023,
+        "month": 2,
+        "day": 4,
         "category": "\ud83c\udf7b\u793e\u4ea4\u8d39",
         "description": "\u81ea\u52a9\u70e4\u8089",
         "amount": "JP\u00a53828"
@@ -1091,9 +1091,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "4",
+        "year": 2023,
+        "month": 2,
+        "day": 4,
         "category": "\ud83c\udf7b\u793e\u4ea4\u8d39",
         "description": "\u6c34\u65cf\u9986\u95e8\u7968",
         "amount": "JP\u00a52440"
@@ -1109,9 +1109,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "4",
+        "year": 2023,
+        "month": 2,
+        "day": 4,
         "category": "\ud83c\udf7b\u793e\u4ea4\u8d39",
         "description": "\u516c\u4ea4\u5730\u94c1",
         "amount": "JP\u00a5620"
@@ -1127,9 +1127,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "5",
+        "year": 2023,
+        "month": 2,
+        "day": 5,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u8d85\u5e02",
         "amount": "JP\u00a51845"
@@ -1145,9 +1145,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "5",
+        "year": 2023,
+        "month": 2,
+        "day": 5,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u7406\u53d1",
         "amount": "JP\u00a51200"
@@ -1163,9 +1163,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "6",
+        "year": 2023,
+        "month": 2,
+        "day": 6,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u7cd5\u70b9",
         "amount": "JP\u00a5128"
@@ -1181,9 +1181,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "6",
+        "year": 2023,
+        "month": 2,
+        "day": 6,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u98df\u5802",
         "amount": "JP\u00a5506"
@@ -1199,9 +1199,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "7",
+        "year": 2023,
+        "month": 2,
+        "day": 7,
         "category": "\ud83d\udc54\u670d\u9970\u2022\u8da3\u5473\u8d39",
         "description": "\u6444\u5f71\u8bfe\u7a0b",
         "amount": "CN\u00a56"
@@ -1217,9 +1217,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "7",
+        "year": 2023,
+        "month": 2,
+        "day": 7,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u98df\u5802",
         "amount": "JP\u00a5484"
@@ -1235,9 +1235,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "8",
+        "year": 2023,
+        "month": 2,
+        "day": 8,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u98df\u5802",
         "amount": "JP\u00a5506"
@@ -1253,9 +1253,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "8",
+        "year": 2023,
+        "month": 2,
+        "day": 8,
         "category": "\ud83d\udcbc\u516c\u8d39\u652f\u51fa",
         "description": "IIP2023\u65b0\u5e79\u7dda",
         "amount": "JP\u00a527220"
@@ -1271,9 +1271,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "9",
+        "year": 2023,
+        "month": 2,
+        "day": 9,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u8d85\u5e02",
         "amount": "JP\u00a51536"
@@ -1289,9 +1289,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "9",
+        "year": 2023,
+        "month": 2,
+        "day": 9,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u98df\u5802",
         "amount": "JP\u00a5638"
@@ -1307,9 +1307,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "9",
+        "year": 2023,
+        "month": 2,
+        "day": 9,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u5496\u5561",
         "amount": "JP\u00a5110"
@@ -1325,9 +1325,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "10",
+        "year": 2023,
+        "month": 2,
+        "day": 10,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u5496\u5561",
         "amount": "JP\u00a5110"
@@ -1343,9 +1343,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "10",
+        "year": 2023,
+        "month": 2,
+        "day": 10,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u98df\u5802",
         "amount": "JP\u00a5587"
@@ -1361,9 +1361,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "10",
+        "year": 2023,
+        "month": 2,
+        "day": 10,
         "category": "\ud83d\udcd6\u81ea\u6211\u6295\u8d44",
         "description": "\u300a\u6b63\u3057\u3044\u5bb6\u8a08\u7ba1\u7406\u3000\u9577\u671f\u30d7\u30e9\u30f3\u7de8\u300b",
         "amount": "JP\u00a51603"
@@ -1379,9 +1379,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "11",
+        "year": 2023,
+        "month": 2,
+        "day": 11,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u56de\u9505\u8089\u5b9a\u98df",
         "amount": "JP\u00a51000"
@@ -1397,9 +1397,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "12",
+        "year": 2023,
+        "month": 2,
+        "day": 12,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u6c34",
         "amount": "JP\u00a5108"
@@ -1415,9 +1415,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "12",
+        "year": 2023,
+        "month": 2,
+        "day": 12,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u8d85\u5e02",
         "amount": "JP\u00a52533"
@@ -1433,9 +1433,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "13",
+        "year": 2023,
+        "month": 2,
+        "day": 13,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u5496\u5561",
         "amount": "JP\u00a5110"
@@ -1451,9 +1451,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "13",
+        "year": 2023,
+        "month": 2,
+        "day": 13,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u98df\u5802",
         "amount": "JP\u00a5550"
@@ -1469,9 +1469,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "14",
+        "year": 2023,
+        "month": 2,
+        "day": 14,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u98df\u5802",
         "amount": "JP\u00a5627"
@@ -1487,9 +1487,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "15",
+        "year": 2023,
+        "month": 2,
+        "day": 15,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u98df\u5802",
         "amount": "JP\u00a5627"
@@ -1505,9 +1505,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "16",
+        "year": 2023,
+        "month": 2,
+        "day": 16,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u98df\u5802",
         "amount": "JP\u00a5473"
@@ -1523,9 +1523,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "17",
+        "year": 2023,
+        "month": 2,
+        "day": 17,
         "category": "\ud83c\udf7b\u793e\u4ea4\u8d39",
         "description": "\u5929\u5987\u7f57\u9762 \u963f\u51e1\u8fbe\u7535\u5f71",
         "amount": "JP\u00a53036"
@@ -1541,9 +1541,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "18",
+        "year": 2023,
+        "month": 2,
+        "day": 18,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u8d85\u5e02",
         "amount": "JP\u00a53718"
@@ -1559,9 +1559,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "20",
+        "year": 2023,
+        "month": 2,
+        "day": 20,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u98df\u5802",
         "amount": "JP\u00a5561"
@@ -1577,9 +1577,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "20",
+        "year": 2023,
+        "month": 2,
+        "day": 20,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u9e21\u86cb",
         "amount": "JP\u00a5103.8"
@@ -1595,9 +1595,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "21",
+        "year": 2023,
+        "month": 2,
+        "day": 21,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u98df\u5802",
         "amount": "JP\u00a5550"
@@ -1613,9 +1613,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "21",
+        "year": 2023,
+        "month": 2,
+        "day": 21,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u5496\u5561",
         "amount": "CN\u00a53.62"
@@ -1631,9 +1631,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "21",
+        "year": 2023,
+        "month": 2,
+        "day": 21,
         "category": "\ud83c\udf7b\u793e\u4ea4\u8d39",
         "description": "\u5730\u94c1",
         "amount": "JP\u00a5210"
@@ -1649,9 +1649,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "21",
+        "year": 2023,
+        "month": 2,
+        "day": 21,
         "category": "\ud83c\udf7b\u793e\u4ea4\u8d39",
         "description": "\u5c45\u9152\u5c4b",
         "amount": "JP\u00a52700"
@@ -1667,9 +1667,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "22",
+        "year": 2023,
+        "month": 2,
+        "day": 22,
         "category": "\ud83d\udc54\u670d\u9970\u2022\u8da3\u5473\u8d39",
         "description": "\u7b14\u8bb0\u672c",
         "amount": "JP\u00a5580"
@@ -1685,9 +1685,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "22",
+        "year": 2023,
+        "month": 2,
+        "day": 22,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u725b\u8089\u996d",
         "amount": "JP\u00a5643"
@@ -1703,9 +1703,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "22",
+        "year": 2023,
+        "month": 2,
+        "day": 22,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u5496\u5561",
         "amount": "JP\u00a5386"
@@ -1721,9 +1721,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "23",
+        "year": 2023,
+        "month": 2,
+        "day": 23,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u4fbf\u5f53",
         "amount": "JP\u00a5550"
@@ -1739,9 +1739,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "23",
+        "year": 2023,
+        "month": 2,
+        "day": 23,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "AutoSleep",
         "amount": "CN\u00a530"
@@ -1757,9 +1757,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "24",
+        "year": 2023,
+        "month": 2,
+        "day": 24,
         "category": "\ud83d\udcd6\u81ea\u6211\u6295\u8d44",
         "description": "Bullet Journal",
         "amount": "JP\u00a51760"
@@ -1775,9 +1775,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "24",
+        "year": 2023,
+        "month": 2,
+        "day": 24,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u98df\u5802",
         "amount": "JP\u00a5616"
@@ -1793,9 +1793,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "25",
+        "year": 2023,
+        "month": 2,
+        "day": 25,
         "category": "\ud83d\udc8a\u5065\u5eb7\u533b\u836f\u8d39",
         "description": "\u54b3\u55fd\u836f",
         "amount": "JP\u00a53680"
@@ -1811,9 +1811,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "25",
+        "year": 2023,
+        "month": 2,
+        "day": 25,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u610f\u9762",
         "amount": "JP\u00a5267"
@@ -1829,9 +1829,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "25",
+        "year": 2023,
+        "month": 2,
+        "day": 25,
         "category": "\ud83d\udc54\u670d\u9970\u2022\u8da3\u5473\u8d39",
         "description": "\u58a8\u6c34",
         "amount": "JP\u00a5393"
@@ -1847,9 +1847,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "25",
+        "year": 2023,
+        "month": 2,
+        "day": 25,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u8d85\u5e02\u4e70\u83dc",
         "amount": "JP\u00a54281"
@@ -1865,9 +1865,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "25",
+        "year": 2023,
+        "month": 2,
+        "day": 25,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u8d85\u5e02\u4e70\u83dc",
         "amount": "JP\u00a53438"
@@ -1883,9 +1883,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "26",
+        "year": 2023,
+        "month": 2,
+        "day": 26,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u516c\u4ea4",
         "amount": "JP\u00a5210"
@@ -1901,9 +1901,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "26",
+        "year": 2023,
+        "month": 2,
+        "day": 26,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u5730\u94c1",
         "amount": "JP\u00a5240"
@@ -1919,9 +1919,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "26",
+        "year": 2023,
+        "month": 2,
+        "day": 26,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u4fbf\u5f53",
         "amount": "JP\u00a5590"
@@ -1937,9 +1937,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "27",
+        "year": 2023,
+        "month": 2,
+        "day": 27,
         "category": "\ud83d\udc54\u670d\u9970\u2022\u8da3\u5473\u8d39",
         "description": "Pilot Capless Decimo",
         "amount": "JP\u00a512815"
@@ -1955,9 +1955,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "27",
+        "year": 2023,
+        "month": 2,
+        "day": 27,
         "category": "\ud83d\udc54\u670d\u9970\u2022\u8da3\u5473\u8d39",
         "description": "\u4fee\u6b63\u5e26",
         "amount": "JP\u00a5440"
@@ -1973,9 +1973,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "27",
+        "year": 2023,
+        "month": 2,
+        "day": 27,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u98df\u5802",
         "amount": "JP\u00a5572"
@@ -1991,9 +1991,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "27",
+        "year": 2023,
+        "month": 2,
+        "day": 27,
         "category": "\ud83d\udc54\u670d\u9970\u2022\u8da3\u5473\u8d39",
         "description": "\u4fee\u6b63\u5e26",
         "amount": "JP\u00a5410"
@@ -2009,9 +2009,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "27",
+        "year": 2023,
+        "month": 2,
+        "day": 27,
         "category": "\ud83d\udc54\u670d\u9970\u2022\u8da3\u5473\u8d39",
         "description": "\u7b14\u888b",
         "amount": "JP\u00a5970"
@@ -2027,9 +2027,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "28",
+        "year": 2023,
+        "month": 2,
+        "day": 28,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u98df\u5802",
         "amount": "JP\u00a5473"
@@ -2045,9 +2045,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "28",
+        "year": 2023,
+        "month": 2,
+        "day": 28,
         "category": "\ud83d\udc54\u670d\u9970\u2022\u8da3\u5473\u8d39",
         "description": "\u5c3a\u5b50 \u6a61\u76ae",
         "amount": "JP\u00a5333"
@@ -2063,9 +2063,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "28",
+        "year": 2023,
+        "month": 2,
+        "day": 28,
         "category": "\ud83d\udc54\u670d\u9970\u2022\u8da3\u5473\u8d39",
         "description": "KOKUYO\u6d3b\u9875\u7eb8A5",
         "amount": "JP\u00a5255"
@@ -2081,9 +2081,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "28",
+        "year": 2023,
+        "month": 2,
+        "day": 28,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u5496\u5561",
         "amount": "CN\u00a53.6"
@@ -2099,9 +2099,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "28",
+        "year": 2023,
+        "month": 2,
+        "day": 28,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u5730\u94c1",
         "amount": "JP\u00a5210"
@@ -2117,9 +2117,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "2",
-        "day": "28",
+        "year": 2023,
+        "month": 2,
+        "day": 28,
         "category": "\ud83d\udc54\u670d\u9970\u2022\u8da3\u5473\u8d39",
         "description": "\u591a\u8272\u7b14",
         "amount": "JP\u00a5880"
@@ -2135,9 +2135,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "1",
+        "year": 2023,
+        "month": 3,
+        "day": 1,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u6ee4\u7f51",
         "amount": "JP\u00a5217"
@@ -2153,9 +2153,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "1",
+        "year": 2023,
+        "month": 3,
+        "day": 1,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u8d85\u5e02\u4e70\u83dc",
         "amount": "JP\u00a51503"
@@ -2171,9 +2171,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "2",
+        "year": 2023,
+        "month": 3,
+        "day": 2,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u98df\u5802",
         "amount": "JP\u00a5634"
@@ -2189,9 +2189,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "2",
+        "year": 2023,
+        "month": 3,
+        "day": 2,
         "category": "\ud83d\udc8a\u5065\u5eb7\u533b\u836f\u8d39",
         "description": "\u5730\u94c1",
         "amount": "JP\u00a5240"
@@ -2207,9 +2207,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "2",
+        "year": 2023,
+        "month": 3,
+        "day": 2,
         "category": "\ud83d\udc8a\u5065\u5eb7\u533b\u836f\u8d39",
         "description": "\u82b1\u7c89\u75c7\u6cbb\u7597\u836f",
         "amount": "JP\u00a52080"
@@ -2225,9 +2225,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "2",
+        "year": 2023,
+        "month": 3,
+        "day": 2,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u5730\u94c1",
         "amount": "JP\u00a5210"
@@ -2243,9 +2243,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "3",
+        "year": 2023,
+        "month": 3,
+        "day": 3,
         "category": "\ud83d\udc54\u670d\u9970\u2022\u8da3\u5473\u8d39",
         "description": "\u8367\u5149\u7b14\u5957\u88c5",
         "amount": "JP\u00a5443"
@@ -2261,9 +2261,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "3",
+        "year": 2023,
+        "month": 3,
+        "day": 3,
         "category": "\ud83d\udc54\u670d\u9970\u2022\u8da3\u5473\u8d39",
         "description": "\u4fbf\u7b7e\u7eb8",
         "amount": "JP\u00a5636"
@@ -2279,9 +2279,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "3",
+        "year": 2023,
+        "month": 3,
+        "day": 3,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u98df\u5802",
         "amount": "JP\u00a5484"
@@ -2297,9 +2297,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "3",
+        "year": 2023,
+        "month": 3,
+        "day": 3,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u5496\u5561",
         "amount": "JP\u00a5129"
@@ -2315,9 +2315,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "3",
+        "year": 2023,
+        "month": 3,
+        "day": 3,
         "category": "\ud83d\udc54\u670d\u9970\u2022\u8da3\u5473\u8d39",
         "description": "\u94c5\u7b14\u66ff\u82af\u91d1\u5c5e\u58f3",
         "amount": "JP\u00a51645"
@@ -2333,9 +2333,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "4",
+        "year": 2023,
+        "month": 3,
+        "day": 4,
         "category": "\ud83d\udc54\u670d\u9970\u2022\u8da3\u5473\u8d39",
         "description": "\u5730\u94c1",
         "amount": "JP\u00a5210"
@@ -2351,9 +2351,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "4",
+        "year": 2023,
+        "month": 3,
+        "day": 4,
         "category": "\ud83d\udc54\u670d\u9970\u2022\u8da3\u5473\u8d39",
         "description": "\u6ce8\u5c04\u5668",
         "amount": "JP\u00a5110"
@@ -2369,9 +2369,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "4",
+        "year": 2023,
+        "month": 3,
+        "day": 4,
         "category": "\ud83d\udc54\u670d\u9970\u2022\u8da3\u5473\u8d39",
         "description": "\u5730\u94c1",
         "amount": "JP\u00a5270"
@@ -2387,9 +2387,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "4",
+        "year": 2023,
+        "month": 3,
+        "day": 4,
         "category": "\ud83d\udc54\u670d\u9970\u2022\u8da3\u5473\u8d39",
         "description": "Pilot Capless Decimo EF",
         "amount": "JP\u00a516940"
@@ -2405,9 +2405,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "4",
+        "year": 2023,
+        "month": 3,
+        "day": 4,
         "category": "\ud83d\udc54\u670d\u9970\u2022\u8da3\u5473\u8d39",
         "description": "\u516c\u4ea4",
         "amount": "JP\u00a5210"
@@ -2423,9 +2423,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "4",
+        "year": 2023,
+        "month": 3,
+        "day": 4,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u5916\u5356",
         "amount": "JP\u00a51238"
@@ -2441,9 +2441,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "5",
+        "year": 2023,
+        "month": 3,
+        "day": 5,
         "category": "\ud83d\udcbc\u516c\u8d39\u652f\u51fa",
         "description": "\u5730\u94c1",
         "amount": "JP\u00a5240"
@@ -2459,9 +2459,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "5",
+        "year": 2023,
+        "month": 3,
+        "day": 5,
         "category": "\ud83d\udcbc\u516c\u8d39\u652f\u51fa",
         "description": "\u94c1\u9053\u535a\u7269\u9986",
         "amount": "JP\u00a5300"
@@ -2477,9 +2477,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "5",
+        "year": 2023,
+        "month": 3,
+        "day": 5,
         "category": "\ud83d\udcbc\u516c\u8d39\u652f\u51fa",
         "description": "\u4ea4\u901a",
         "amount": "JP\u00a5280"
@@ -2495,9 +2495,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "5",
+        "year": 2023,
+        "month": 3,
+        "day": 5,
         "category": "\ud83d\udcbc\u516c\u8d39\u652f\u51fa",
         "description": "\u94c1\u9053\u535a\u7269\u9986\u7eaa\u5ff5\u54c1",
         "amount": "JP\u00a51320"
@@ -2513,9 +2513,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "5",
+        "year": 2023,
+        "month": 3,
+        "day": 5,
         "category": "\ud83d\udcbc\u516c\u8d39\u652f\u51fa",
         "description": "\u4ea4\u901a\u8d39",
         "amount": "JP\u00a5280"
@@ -2531,9 +2531,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "5",
+        "year": 2023,
+        "month": 3,
+        "day": 5,
         "category": "\ud83d\udcbc\u516c\u8d39\u652f\u51fa",
         "description": "\u4e00\u5170\u62c9\u9762",
         "amount": "JP\u00a51620"
@@ -2549,9 +2549,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "5",
+        "year": 2023,
+        "month": 3,
+        "day": 5,
         "category": "\ud83d\udcbc\u516c\u8d39\u652f\u51fa",
         "description": "\u9762\u5305",
         "amount": "JP\u00a5723"
@@ -2567,9 +2567,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "5",
+        "year": 2023,
+        "month": 3,
+        "day": 5,
         "category": "\ud83d\udcbc\u516c\u8d39\u652f\u51fa",
         "description": "\u4f4f\u5bbf\u8d392\u665a Daiwa Roynet Hotel",
         "amount": "JP\u00a511538"
@@ -2585,9 +2585,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "6",
+        "year": 2023,
+        "month": 3,
+        "day": 6,
         "category": "\ud83d\udcbc\u516c\u8d39\u652f\u51fa",
         "description": "\u5f00\u4f1a\u5e08\u751f\u805a\u9910",
         "amount": "JP\u00a54000"
@@ -2603,9 +2603,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "6",
+        "year": 2023,
+        "month": 3,
+        "day": 6,
         "category": "\ud83d\udcbc\u516c\u8d39\u652f\u51fa",
         "description": "\u6c34 \u5496\u5561",
         "amount": "JP\u00a5249"
@@ -2621,9 +2621,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "6",
+        "year": 2023,
+        "month": 3,
+        "day": 6,
         "category": "\ud83d\udcbc\u516c\u8d39\u652f\u51fa",
         "description": "\u835e\u9ea6\u9762",
         "amount": "JP\u00a51400"
@@ -2639,9 +2639,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "6",
+        "year": 2023,
+        "month": 3,
+        "day": 6,
         "category": "\ud83d\udcbc\u516c\u8d39\u652f\u51fa",
         "description": "\u4ea4\u901a",
         "amount": "JP\u00a5680"
@@ -2657,9 +2657,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "6",
+        "year": 2023,
+        "month": 3,
+        "day": 6,
         "category": "\ud83d\udcbc\u516c\u8d39\u652f\u51fa",
         "description": "\u4ea4\u901a",
         "amount": "JP\u00a5210"
@@ -2675,9 +2675,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "6",
+        "year": 2023,
+        "month": 3,
+        "day": 6,
         "category": "\ud83d\udcbc\u516c\u8d39\u652f\u51fa",
         "description": "\u6c34 \u5496\u5561",
         "amount": "JP\u00a5239"
@@ -2693,9 +2693,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "6",
+        "year": 2023,
+        "month": 3,
+        "day": 6,
         "category": "\ud83d\udcbc\u516c\u8d39\u652f\u51fa",
         "description": "\u9762\u5305",
         "amount": "JP\u00a5885"
@@ -2711,9 +2711,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "7",
+        "year": 2023,
+        "month": 3,
+        "day": 7,
         "category": "\ud83d\udcbc\u516c\u8d39\u652f\u51fa",
         "description": "\u5409\u91ce\u5bb6",
         "amount": "JP\u00a5643"
@@ -2729,9 +2729,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "7",
+        "year": 2023,
+        "month": 3,
+        "day": 7,
         "category": "\ud83d\udcbc\u516c\u8d39\u652f\u51fa",
         "description": "\u4ea4\u901a",
         "amount": "JP\u00a5210"
@@ -2747,9 +2747,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "7",
+        "year": 2023,
+        "month": 3,
+        "day": 7,
         "category": "\ud83d\udcbc\u516c\u8d39\u652f\u51fa",
         "description": "\u3044\u306e\u3061\u306e\u305f\u3073\u81ea\u7136\u535a\u7269\u9928",
         "amount": "JP\u00a51100"
@@ -2765,9 +2765,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "7",
+        "year": 2023,
+        "month": 3,
+        "day": 7,
         "category": "\ud83d\udcbc\u516c\u8d39\u652f\u51fa",
         "description": "\u4ea4\u901a",
         "amount": "JP\u00a5280"
@@ -2783,9 +2783,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "7",
+        "year": 2023,
+        "month": 3,
+        "day": 7,
         "category": "\ud83d\udcbc\u516c\u8d39\u652f\u51fa",
         "description": "\u9762\u5305",
         "amount": "JP\u00a5680"
@@ -2801,9 +2801,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "7",
+        "year": 2023,
+        "month": 3,
+        "day": 7,
         "category": "\ud83d\udcbc\u516c\u8d39\u652f\u51fa",
         "description": "\u5730\u94c1",
         "amount": "JP\u00a5240"
@@ -2819,9 +2819,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "7",
+        "year": 2023,
+        "month": 3,
+        "day": 7,
         "category": "\ud83d\udcbc\u516c\u8d39\u652f\u51fa",
         "description": "\u516c\u4ea4",
         "amount": "JP\u00a5210"
@@ -2837,9 +2837,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "8",
+        "year": 2023,
+        "month": 3,
+        "day": 8,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u8d85\u5e02",
         "amount": "JP\u00a52280"
@@ -2855,9 +2855,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "9",
+        "year": 2023,
+        "month": 3,
+        "day": 9,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u5305\u5b50",
         "amount": "JP\u00a5140"
@@ -2873,9 +2873,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "9",
+        "year": 2023,
+        "month": 3,
+        "day": 9,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u98df\u5802",
         "amount": "JP\u00a5550"
@@ -2891,9 +2891,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "9",
+        "year": 2023,
+        "month": 3,
+        "day": 9,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u5496\u5561",
         "amount": "JP\u00a590"
@@ -2909,9 +2909,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "10",
+        "year": 2023,
+        "month": 3,
+        "day": 10,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u98df\u5802",
         "amount": "JP\u00a5550"
@@ -2927,9 +2927,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "10",
+        "year": 2023,
+        "month": 3,
+        "day": 10,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u9e21\u86cb",
         "amount": "CN\u00a510.23"
@@ -2945,9 +2945,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "10",
+        "year": 2023,
+        "month": 3,
+        "day": 10,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u8d85\u5e02",
         "amount": "JP\u00a5911"
@@ -2963,9 +2963,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "11",
+        "year": 2023,
+        "month": 3,
+        "day": 11,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u4ea4\u901a",
         "amount": "JP\u00a5620"
@@ -2981,9 +2981,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "11",
+        "year": 2023,
+        "month": 3,
+        "day": 11,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u78c1\u94c1\u6302\u94a9",
         "amount": "JP\u00a5210"
@@ -2999,9 +2999,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "11",
+        "year": 2023,
+        "month": 3,
+        "day": 11,
         "category": "\ud83d\udc8a\u5065\u5eb7\u533b\u836f\u8d39",
         "description": "\u770b\u773c\u775b",
         "amount": "JP\u00a52240"
@@ -3017,9 +3017,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "11",
+        "year": 2023,
+        "month": 3,
+        "day": 11,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "KFC",
         "amount": "JP\u00a5950"
@@ -3035,9 +3035,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "11",
+        "year": 2023,
+        "month": 3,
+        "day": 11,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u7315\u7334\u6843",
         "amount": "JP\u00a5429"
@@ -3053,9 +3053,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "11",
+        "year": 2023,
+        "month": 3,
+        "day": 11,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u575a\u679c",
         "amount": "JP\u00a51706"
@@ -3071,9 +3071,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "11",
+        "year": 2023,
+        "month": 3,
+        "day": 11,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u6bdb\u5dfe",
         "amount": "JP\u00a5547"
@@ -3089,9 +3089,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "11",
+        "year": 2023,
+        "month": 3,
+        "day": 11,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u80f6\u5e26",
         "amount": "JP\u00a5294"
@@ -3107,9 +3107,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "11",
+        "year": 2023,
+        "month": 3,
+        "day": 11,
         "category": "\ud83d\udc54\u670d\u9970\u2022\u8da3\u5473\u8d39",
         "description": "\u80f6\u5e26",
         "amount": "JP\u00a5270"
@@ -3125,9 +3125,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "11",
+        "year": 2023,
+        "month": 3,
+        "day": 11,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u8d85\u5e02",
         "amount": "JP\u00a51991"
@@ -3143,9 +3143,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "11",
+        "year": 2023,
+        "month": 3,
+        "day": 11,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u67d4\u8f6f\u62bd\u7eb84\u63d0",
         "amount": "JP\u00a52042"
@@ -3161,9 +3161,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "11",
+        "year": 2023,
+        "month": 3,
+        "day": 11,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u6d88\u81ed\u55b7\u96fe",
         "amount": "JP\u00a5288"
@@ -3179,9 +3179,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "12",
+        "year": 2023,
+        "month": 3,
+        "day": 12,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u53a8\u623f\u7eb8",
         "amount": "JP\u00a5305"
@@ -3197,9 +3197,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "12",
+        "year": 2023,
+        "month": 3,
+        "day": 12,
         "category": "\ud83d\udc54\u670d\u9970\u2022\u8da3\u5473\u8d39",
         "description": "\u3057\u30fc\u3055\u30fc\u80cc\u5305",
         "amount": "JP\u00a534100"
@@ -3215,9 +3215,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "13",
+        "year": 2023,
+        "month": 3,
+        "day": 13,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u98df\u5802",
         "amount": "JP\u00a5474"
@@ -3233,9 +3233,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "13",
+        "year": 2023,
+        "month": 3,
+        "day": 13,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u5496\u5561",
         "amount": "JP\u00a5110"
@@ -3251,9 +3251,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "14",
+        "year": 2023,
+        "month": 3,
+        "day": 14,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u4fbf\u5f53",
         "amount": "CN\u00a520.15"
@@ -3269,9 +3269,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "15",
+        "year": 2023,
+        "month": 3,
+        "day": 15,
         "category": "\ud83d\udc54\u670d\u9970\u2022\u8da3\u5473\u8d39",
         "description": "\u5927\u7b14\u888b",
         "amount": "JP\u00a52774"
@@ -3287,9 +3287,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "15",
+        "year": 2023,
+        "month": 3,
+        "day": 15,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u5783\u573e\u888b",
         "amount": "JP\u00a5360"
@@ -3305,9 +3305,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "15",
+        "year": 2023,
+        "month": 3,
+        "day": 15,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u8d85\u5e02",
         "amount": "JP\u00a51042"
@@ -3323,9 +3323,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "16",
+        "year": 2023,
+        "month": 3,
+        "day": 16,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u98df\u5802",
         "amount": "JP\u00a5682"
@@ -3341,9 +3341,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "16",
+        "year": 2023,
+        "month": 3,
+        "day": 16,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u679c\u6c41",
         "amount": "JP\u00a5128"
@@ -3359,9 +3359,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "16",
+        "year": 2023,
+        "month": 3,
+        "day": 16,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u5496\u5561",
         "amount": "JP\u00a5110"
@@ -3377,9 +3377,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "17",
+        "year": 2023,
+        "month": 3,
+        "day": 17,
         "category": "\ud83d\udc8a\u5065\u5eb7\u533b\u836f\u8d39",
         "description": "\u770b\u773c\u775b",
         "amount": "JP\u00a5610"
@@ -3395,9 +3395,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "17",
+        "year": 2023,
+        "month": 3,
+        "day": 17,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u98df\u5802",
         "amount": "JP\u00a5539"
@@ -3413,9 +3413,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "17",
+        "year": 2023,
+        "month": 3,
+        "day": 17,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u5496\u5561",
         "amount": "JP\u00a5110"
@@ -3431,9 +3431,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "18",
+        "year": 2023,
+        "month": 3,
+        "day": 18,
         "category": "\ud83d\udc54\u670d\u9970\u2022\u8da3\u5473\u8d39",
         "description": "\u6253\u5b54\u5668",
         "amount": "JP\u00a52599"
@@ -3449,9 +3449,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "18",
+        "year": 2023,
+        "month": 3,
+        "day": 18,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u7ed1\u7ebf",
         "amount": "JP\u00a5110"
@@ -3467,9 +3467,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "18",
+        "year": 2023,
+        "month": 3,
+        "day": 18,
         "category": "\ud83d\udef8\u5176\u4ed6",
         "description": "\u7b14 \u6587\u4ef6\u5939",
         "amount": "JP\u00a51760"
@@ -3485,9 +3485,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "18",
+        "year": 2023,
+        "month": 3,
+        "day": 18,
         "category": "\ud83d\udcd6\u81ea\u6211\u6295\u8d44",
         "description": "\u6771\u5927\u5408\u683c\u751f\u306e\u30ce\u30fc\u30c8\u306f\u304b\u306a\u3089\u305a\u7f8e\u3057\u3044 \u5fb9\u5e95\u5206\u6790",
         "amount": "JP\u00a51210"
@@ -3503,9 +3503,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "18",
+        "year": 2023,
+        "month": 3,
+        "day": 18,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u725b\u8089\u996d",
         "amount": "JP\u00a5710"
@@ -3521,9 +3521,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "18",
+        "year": 2023,
+        "month": 3,
+        "day": 18,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u8d85\u5e02",
         "amount": "JP\u00a53260"
@@ -3539,9 +3539,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "19",
+        "year": 2023,
+        "month": 3,
+        "day": 19,
         "category": "\ud83d\udef8\u5176\u4ed6",
         "description": "\u5199\u5b57\u57ab\u677f",
         "amount": "JP\u00a5511"
@@ -3557,9 +3557,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "19",
+        "year": 2023,
+        "month": 3,
+        "day": 19,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u5473\u589e\u6c64",
         "amount": "JP\u00a5236"
@@ -3575,9 +3575,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "19",
+        "year": 2023,
+        "month": 3,
+        "day": 19,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u5409\u91ce\u5bb6",
         "amount": "JP\u00a5877"
@@ -3593,9 +3593,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "19",
+        "year": 2023,
+        "month": 3,
+        "day": 19,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u53e3\u7f69",
         "amount": "JP\u00a5427"
@@ -3611,9 +3611,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "20",
+        "year": 2023,
+        "month": 3,
+        "day": 20,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u5496\u5561 \u4e09\u660e\u6cbb",
         "amount": "JP\u00a5408"
@@ -3629,9 +3629,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "20",
+        "year": 2023,
+        "month": 3,
+        "day": 20,
         "category": "\ud83d\udef8\u5176\u4ed6",
         "description": "\u6d3b\u9875\u7eb8 \u5355\u8bcd\u5361 \u66ff\u82af",
         "amount": "JP\u00a5773"
@@ -3647,9 +3647,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "20",
+        "year": 2023,
+        "month": 3,
+        "day": 20,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u4e09\u660e\u6cbb",
         "amount": "JP\u00a5298"
@@ -3665,9 +3665,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "20",
+        "year": 2023,
+        "month": 3,
+        "day": 20,
         "category": "\ud83d\udef8\u5176\u4ed6",
         "description": "\u6587\u4ef6\u5939",
         "amount": "JP\u00a5135"
@@ -3683,9 +3683,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "20",
+        "year": 2023,
+        "month": 3,
+        "day": 20,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u7c735kg\uff0c\u6cb9",
         "amount": "JP\u00a52707"
@@ -3701,9 +3701,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "21",
+        "year": 2023,
+        "month": 3,
+        "day": 21,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u8d85\u5e02",
         "amount": "JP\u00a5621"
@@ -3719,9 +3719,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "21",
+        "year": 2023,
+        "month": 3,
+        "day": 21,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u96e8\u4f1e",
         "amount": "JP\u00a5711"
@@ -3737,9 +3737,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "21",
+        "year": 2023,
+        "month": 3,
+        "day": 21,
         "category": "\ud83d\udef8\u5176\u4ed6",
         "description": "\u6d3b\u9875\u5939",
         "amount": "JP\u00a5536"
@@ -3755,9 +3755,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "21",
+        "year": 2023,
+        "month": 3,
+        "day": 21,
         "category": "\ud83d\udef8\u5176\u4ed6",
         "description": "\u4ea4\u901a",
         "amount": "JP\u00a5660"
@@ -3773,9 +3773,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "21",
+        "year": 2023,
+        "month": 3,
+        "day": 21,
         "category": "\ud83d\udef8\u5176\u4ed6",
         "description": "\u73b0\u91d1\u888b",
         "amount": "JP\u00a5756"
@@ -3791,9 +3791,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "3",
-        "day": "22",
+        "year": 2023,
+        "month": 3,
+        "day": 22,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u94b1\u5305\u624b\u5e10",
         "amount": "JP\u00a527416"
@@ -3809,9 +3809,9 @@
         ]
       },
       "properties": {
-        "year": "2023",
-        "month": "4",
-        "day": "1",
+        "year": 2023,
+        "month": 4,
+        "day": 1,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u4fbf\u5f53",
         "amount": "JP\u00a5429"
