@@ -53,14 +53,14 @@
                     maxzoom: 15,
                     paint: {
                         // increase weight as diameter breast height increases
-                        'heatmap-weight': {
-                            property: 'month',
-                            type: 'exponential',
-                            stops: [
-                                [1, 0],
-                                [62, 1]
-                            ]
-                        },
+                        //    'heatmap-weight': {
+                        //        property: 'year',
+                        //        type: 'exponential',
+                        //        stops: [
+                        //            [1, 0],
+                        //            [62, 1]
+                        //        ]
+                        //    },
                         // increase intensity as zoom level increases
                         'heatmap-intensity': {
                             stops: [
@@ -103,7 +103,7 @@
                         }
                     }
                 },
-                'waterway-label'
+
             );
 
 
@@ -116,30 +116,18 @@
                     paint: {
                         // increase the radius of the circle as the zoom level and dbh value increases
                         'circle-radius': {
-                            property: 'month',
+                            property: 'year',
                             type: 'exponential',
                             stops: [
-                                [{ zoom: 15, value: 1 }, 5],
-                                [{ zoom: 15, value: 62 }, 10],
-                                [{ zoom: 22, value: 1 }, 20],
-                                [{ zoom: 22, value: 62 }, 50]
+                                [{ zoom: 15, value: 2023 }, 5],
+                                [{ zoom: 15, value: 2023 }, 10],
+                                [{ zoom: 22, value: 2023 }, 20],
+                                [{ zoom: 22, value: 2023 }, 50]
                             ]
                         },
-                        'circle-color': {
-                            property: 'month',
-                            type: 'exponential',
-                            stops: [
-                                [0, 'rgba(236,222,239,0)'],
-                                [10, 'rgb(236,222,239)'],
-                                [20, 'rgb(208,209,230)'],
-                                [30, 'rgb(166,189,219)'],
-                                [40, 'rgb(103,169,207)'],
-                                [50, 'rgb(28,144,153)'],
-                                [60, 'rgb(1,108,89)']
-                            ]
-                        },
-                        'circle-stroke-color': 'white',
-                        'circle-stroke-width': 1,
+                        'circle-color': 'rgb(255,249,230)',
+                        'circle-stroke-color': 'rgb(230,195,92)',  //circle边框颜色
+                        'circle-stroke-width': 3,
                         'circle-opacity': {
                             stops: [
                                 [14, 0],
@@ -148,7 +136,7 @@
                         }
                     }
                 },
-                'waterway-label'
+
             );
 
 
