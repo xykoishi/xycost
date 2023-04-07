@@ -139,7 +139,12 @@
 
             );
 
-
+            map.on('click', 'earthquakes2', (event) => {
+                new mapboxgl.Popup()
+                    .setLngLat(event.features[0].geometry.coordinates)
+                    .setHTML(`<strong>Date:</strong> ${event.features[0].properties.year}.${event.features[0].properties.month}.${event.features[0].properties.day}`)
+                    .addTo(map);
+            });
 
         });
     </script>
