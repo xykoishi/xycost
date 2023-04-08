@@ -39,17 +39,17 @@
             // Add a new source from our GeoJSON data and
             // set the 'cluster' option to true. GL-JS will
             // add the point_count property to your source data.
-            map.addSource('earthquakes', {
+            map.addSource('txnmap', {
                 type: 'geojson',
-                // Point to GeoJSON data. This example visualizes all M1.0+ earthquakes
+                // Point to GeoJSON data. This example visualizes all M1.0+ txnmap
                 // from 12/22/15 to 1/21/16 as logged by USGS' Earthquake hazards program.
                 data: 'https://taroyaki.github.io/xycost/Data/Mybills.geojson',
             });
             map.addLayer(
                 {
-                    id: 'earthquakes1',
+                    id: 'txnmap1',
                     type: 'heatmap',
-                    source: 'earthquakes',
+                    source: 'txnmap',
                     maxzoom: 15,
                     paint: {
                         // increase weight as diameter breast height increases
@@ -106,12 +106,11 @@
 
             );
 
-
             map.addLayer(
                 {
-                    id: 'earthquakes2',
+                    id: 'txnmap2',
                     type: 'circle',
-                    source: 'earthquakes',
+                    source: 'txnmap',
                     minzoom: 14,
                     paint: {
                         // increase the radius of the circle as the zoom level and dbh value increases
@@ -139,7 +138,7 @@
 
             );
 
-            map.on('click', 'earthquakes2', (event) => {
+            map.on('click', 'txnmap2', (event) => {
                 new mapboxgl.Popup()
                     .setLngLat(event.features[0].geometry.coordinates)
                     .setHTML(`<strong>Date:</strong> ${event.features[0].properties.year}.${event.features[0].properties.month}.${event.features[0].properties.day}`)
