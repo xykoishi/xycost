@@ -4176,6 +4176,42 @@
         "description": "test2",
         "amount": "CN\u00a5333"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.958137,
+          35.15241
+        ]
+      },
+      "properties": {
+        "year": 2023,
+        "month": 4,
+        "day": 8,
+        "category": "\ud83d\udc8a\u5065\u5eb7\u533b\u836f\u8d39",
+        "description": "test",
+        "amount": "JP\u00a51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.958041,
+          35.152111
+        ]
+      },
+      "properties": {
+        "year": 2023,
+        "month": 4,
+        "day": 8,
+        "category": "\ud83e\udd73\u8da3\u5473\u8d39",
+        "description": "test2",
+        "amount": "CN\u00a5333"
+      }
     }
   ]
 }
