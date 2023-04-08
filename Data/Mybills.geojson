@@ -4140,6 +4140,24 @@
         "description": "\u8d85\u5e02\u4e70\u83dc",
         "amount": "JP\u00a52979"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.958137,
+          35.15241
+        ]
+      },
+      "properties": {
+        "year": 2023,
+        "month": 4,
+        "day": 8,
+        "category": "\ud83d\udc8a\u5065\u5eb7\u533b\u836f\u8d39",
+        "description": "test",
+        "amount": "JP\u00a51"
+      }
     }
   ]
 }
