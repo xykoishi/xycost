@@ -4236,24 +4236,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.136854,
-          1.0
-        ]
-      },
-      "properties": {
-        "year": 2023,
-        "month": 4,
-        "day": 16,
-        "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
-        "description": "\u6d4b\u8bd5",
-        "amount": "JP\u00a5"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           35.137009,
           1192.0
         ]
