@@ -4236,8 +4236,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.137009,
-          1192.0
+          136.963328,
+          35.137009
         ]
       },
       "properties": {
@@ -4246,7 +4246,7 @@
         "day": 16,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u610f\u5927\u5229\u9762 \u575a\u679c",
-        "amount": "JP\u00a5"
+        "amount": "JP\u00a51192"
       }
     },
     {
@@ -4254,8 +4254,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.140318,
-          250.0
+          136.959515,
+          35.140318
         ]
       },
       "properties": {
@@ -4264,7 +4264,7 @@
         "day": 16,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u7c97\u5927\u5783\u573e\u5238",
-        "amount": "JP\u00a5"
+        "amount": "JP\u00a5250"
       }
     },
     {
@@ -4272,8 +4272,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.144946,
-          1547.0
+          136.957483,
+          35.144946
         ]
       },
       "properties": {
@@ -4282,7 +4282,7 @@
         "day": 16,
         "category": "\ud83d\udc8a\u5065\u5eb7\u533b\u836f",
         "description": "\u5b89\u7720\u836f",
-        "amount": "JP\u00a5"
+        "amount": "JP\u00a51547"
       }
     },
     {
@@ -4290,8 +4290,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.153456,
-          4912.0
+          136.950427,
+          35.153456
         ]
       },
       "properties": {
@@ -4300,7 +4300,7 @@
         "day": 16,
         "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
         "description": "\u8d85\u5e02\u4e70\u83dc",
-        "amount": "JP\u00a5"
+        "amount": "JP\u00a54912"
       }
     }
   ]
