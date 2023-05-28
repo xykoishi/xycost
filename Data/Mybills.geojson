@@ -5658,8 +5658,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          136.958135,
-          35.152099
+          136.725135,
+          34.456294
         ]
       },
       "properties": {
@@ -5938,7 +5938,7 @@
         "day": 27,
         "category": "\ud83e\udd73\u8da3\u5473",
         "description": "\u8fd0\u52a8\u77ed\u88e4",
-        "amount": "JP\u00a52"
+        "amount": "JP\u00a53289"
       }
     },
     {
