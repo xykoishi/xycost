@@ -7758,6 +7758,366 @@
         "description": "\u516c\u65a4",
         "amount": "JP\u00a5210"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.961486,
+          35.154517
+        ]
+      },
+      "properties": {
+        "year": 2023,
+        "month": 7,
+        "day": 2,
+        "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
+        "description": "\u996e\u6599 \u575a\u679c",
+        "amount": "JP\u00a5496"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.955543,
+          35.143105
+        ]
+      },
+      "properties": {
+        "year": 2023,
+        "month": 7,
+        "day": 2,
+        "category": "\ud83c\udf7b\u793e\u4ea4\u8d39",
+        "description": "\u70e4\u8089",
+        "amount": "CN\u00a5260"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.963002,
+          35.15408
+        ]
+      },
+      "properties": {
+        "year": 2023,
+        "month": 7,
+        "day": 3,
+        "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
+        "description": "\u996d\u56e2",
+        "amount": "JP\u00a5128"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.962795,
+          35.153538
+        ]
+      },
+      "properties": {
+        "year": 2023,
+        "month": 7,
+        "day": 3,
+        "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
+        "description": "\u98df\u5802",
+        "amount": "JP\u00a5550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.95019,
+          35.153078
+        ]
+      },
+      "properties": {
+        "year": 2023,
+        "month": 7,
+        "day": 3,
+        "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
+        "description": "\u8d85\u5e02\u4e70\u83dc \u7eb8\u5dfe",
+        "amount": "JP\u00a53776"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.963073,
+          35.154067
+        ]
+      },
+      "properties": {
+        "year": 2023,
+        "month": 7,
+        "day": 7,
+        "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
+        "description": "\u996d\u56e2",
+        "amount": "JP\u00a5118"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.963024,
+          35.136686
+        ]
+      },
+      "properties": {
+        "year": 2023,
+        "month": 7,
+        "day": 8,
+        "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
+        "description": "\u575a\u679c \u610f\u9762",
+        "amount": "JP\u00a5827"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.963107,
+          35.136752
+        ]
+      },
+      "properties": {
+        "year": 2023,
+        "month": 7,
+        "day": 8,
+        "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
+        "description": "\u793c\u7269\u5305\u88c5\u76d2",
+        "amount": "JP\u00a5220"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.962908,
+          35.136693
+        ]
+      },
+      "properties": {
+        "year": 2023,
+        "month": 7,
+        "day": 8,
+        "category": "\ud83e\udd73\u8da3\u5473\u8d39",
+        "description": "\u4f18\u8863\u5e93\u4e94\u5206\u8896",
+        "amount": "JP\u00a51290"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.966524,
+          35.154486
+        ]
+      },
+      "properties": {
+        "year": 2023,
+        "month": 7,
+        "day": 8,
+        "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
+        "description": "\u516c\u4ea4\u5730\u94c1",
+        "amount": "JP\u00a5340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.962014,
+          35.152375
+        ]
+      },
+      "properties": {
+        "year": 2023,
+        "month": 7,
+        "day": 8,
+        "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
+        "description": "\u4fbf\u5f53",
+        "amount": "JP\u00a5535"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.963113,
+          35.154065
+        ]
+      },
+      "properties": {
+        "year": 2023,
+        "month": 7,
+        "day": 9,
+        "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
+        "description": "\u5496\u5561",
+        "amount": "JP\u00a5110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.963042,
+          35.154022
+        ]
+      },
+      "properties": {
+        "year": 2023,
+        "month": 7,
+        "day": 9,
+        "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
+        "description": "\u4fbf\u5f53",
+        "amount": "JP\u00a5404"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.958623,
+          35.157066
+        ]
+      },
+      "properties": {
+        "year": 2023,
+        "month": 7,
+        "day": 9,
+        "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
+        "description": "\u4fbf\u5f53",
+        "amount": "JP\u00a5505"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.958112,
+          35.152076
+        ]
+      },
+      "properties": {
+        "year": 2023,
+        "month": 7,
+        "day": 9,
+        "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
+        "description": "\u8d85\u5e02\u4e70\u83dc",
+        "amount": "JP\u00a56567"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.958174,
+          35.151988
+        ]
+      },
+      "properties": {
+        "year": 2023,
+        "month": 7,
+        "day": 10,
+        "category": "\ud83c\udf7b\u793e\u4ea4\u8d39",
+        "description": "\u548c\u68ee\u7530\u541b\u7b2c\u4e00\u6b21\u5403\u996d",
+        "amount": "JP\u00a51900"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.963331,
+          35.15396
+        ]
+      },
+      "properties": {
+        "year": 2023,
+        "month": 7,
+        "day": 11,
+        "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
+        "description": "\u4fbf\u5f53",
+        "amount": "JP\u00a5530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.961452,
+          35.154512
+        ]
+      },
+      "properties": {
+        "year": 2023,
+        "month": 7,
+        "day": 12,
+        "category": "\ud83d\udcd6\u81ea\u6211\u6295\u8d44",
+        "description": "\u300a\u597d\u7684\u7231\u60c5\u300b\u300a\u597d\u7684\u5b64\u72ec\u300b",
+        "amount": "JP\u00a51823"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.961673,
+          35.154618
+        ]
+      },
+      "properties": {
+        "year": 2023,
+        "month": 7,
+        "day": 14,
+        "category": "\ud83d\udc8a\u5065\u5eb7\u533b\u836f\u8d39",
+        "description": "\u6d17\u8138\u5dfe",
+        "amount": "JP\u00a51974"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.9615,
+          35.154612
+        ]
+      },
+      "properties": {
+        "year": 2023,
+        "month": 7,
+        "day": 14,
+        "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
+        "description": "\u5496\u5561 \u575a\u679c",
+        "amount": "JP\u00a5468"
+      }
     }
   ]
 }
