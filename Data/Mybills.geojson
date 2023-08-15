@@ -9720,6 +9720,24 @@
         "description": "\u4fbf\u5229\u5e97",
         "amount": "JP\u00a5618"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.958166,
+          35.152019
+        ]
+      },
+      "properties": {
+        "year": 2023,
+        "month": 8,
+        "day": 14,
+        "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
+        "description": "\u5916\u5356",
+        "amount": "JP\u00a51909"
+      }
     }
   ]
 }
