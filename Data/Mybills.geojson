@@ -12030,6 +12030,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          136.965253,
+          35.162983
+        ]
+      },
+      "properties": {
+        "year": 2023,
+        "month": 9,
+        "day": 20,
+        "category": "\u26f1\ufe0f\u6253\u5361",
+        "description": "\u6bd5\u4e1a\u6b22\u9001\u4f1a",
+        "amount": "0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           136.961502,
           35.154782
         ]
