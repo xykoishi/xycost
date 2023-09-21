@@ -14,7 +14,7 @@ import csv
 CsvFile = 'Mybills.csv'
 GeojsonFile = 'Mybills.geojson'
 
-path = '/Users/xychen/Library/Mobile Documents/com~apple~CloudDocs/eCXY/家財管理/xycost/Data/'
+path = '/Users/koishi/Library/Mobile Documents/com~apple~CloudDocs/eCXY/家財管理/xycost/Data/'
 
 # In[21]:
 
