@@ -12438,24 +12438,6 @@
         "description": "\u548c\u68ee\u7530\u541b\u5403KFC",
         "amount": "JP\u00a53000"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          133.709078,
-          39.697627
-        ]
-      },
-      "properties": {
-        "year": 2023,
-        "month": 10,
-        "day": 31,
-        "category": "\u26f1\ufe0f\u6253\u5361",
-        "description": "\u548c\u68ee\u7530\u541b\u5403KFC",
-        "amount": "JP\u00a53000"
-      }
     }
   ]
 }
