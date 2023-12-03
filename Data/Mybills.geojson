@@ -12654,6 +12654,42 @@
         "description": "\u9999\u6e2f\u98f2\u8336\u70b9\u5fc3 \u5343\u7407 \u6804\u5e97",
         "amount": "CN\u00a53200"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.90299,
+          35.158393
+        ]
+      },
+      "properties": {
+        "year": 2023,
+        "month": 12,
+        "day": 4,
+        "category": "\ud83c\udf7b\u793e\u4ea4\u8d39",
+        "description": "\u8d8a\u5357\u7c73\u7c89",
+        "amount": "JP\u00a5980"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.907769,
+          35.167453
+        ]
+      },
+      "properties": {
+        "year": 2023,
+        "month": 12,
+        "day": 4,
+        "category": "\ud83e\udd73\u8da3\u5473\u8d39",
+        "description": "\u5916\u5957",
+        "amount": "JP\u00a528160"
+      }
     }
   ]
 }
