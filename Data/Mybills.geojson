@@ -12636,6 +12636,24 @@
         "description": "\u307e\u308b\u3055\u6c34\u7523\u3000\u9c9c\u9c7c\u6599\u7406",
         "amount": "JP\u00a53300"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.90839,
+          35.162881
+        ]
+      },
+      "properties": {
+        "year": 2023,
+        "month": 12,
+        "day": 3,
+        "category": "\ud83c\udf7b\u793e\u4ea4\u8d39",
+        "description": "\u9999\u6e2f\u98f2\u8336\u70b9\u5fc3 \u5343\u7407 \u6804\u5e97",
+        "amount": "CN\u00a53200"
+      }
     }
   ]
 }
