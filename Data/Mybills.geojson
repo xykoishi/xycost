@@ -14148,6 +14148,24 @@
         "description": "\u4fee\u79fb\u52a8\u786c\u76d8",
         "amount": "JP\u00a570"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.763922,
+          24.533763
+        ]
+      },
+      "properties": {
+        "year": 2023,
+        "month": 12,
+        "day": 28,
+        "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
+        "description": "\u76ae\u5e26 \u80f8\u5305",
+        "amount": "CN\u00a5569"
+      }
     }
   ]
 }
