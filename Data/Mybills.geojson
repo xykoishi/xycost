@@ -14166,6 +14166,96 @@
         "description": "\u76ae\u5e26 \u80f8\u5305",
         "amount": "CN\u00a5569"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.760437,
+          24.535828
+        ]
+      },
+      "properties": {
+        "year": 2024,
+        "month": 1,
+        "day": 22,
+        "category": "\ud83d\uddfa\ufe0f\u6253\u5361",
+        "description": "\u7ef4\u4e5f\u7eb3\u56fd\u9645\u9152\u5e97",
+        "amount": "JP\u00a50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.750206,
+          25.098607
+        ]
+      },
+      "properties": {
+        "year": 2024,
+        "month": 1,
+        "day": 23,
+        "category": "\ud83d\uddfa\ufe0f\u6253\u5361",
+        "description": "\u6253\u5361",
+        "amount": "JP\u00a50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.052127,
+          30.670467
+        ]
+      },
+      "properties": {
+        "year": 2024,
+        "month": 1,
+        "day": 25,
+        "category": "\ud83d\uddfa\ufe0f\u6253\u5361",
+        "description": "\u4e32\u4e32",
+        "amount": "JP\u00a50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.061558,
+          30.659557
+        ]
+      },
+      "properties": {
+        "year": 2024,
+        "month": 1,
+        "day": 25,
+        "category": "\ud83d\uddfa\ufe0f\u6253\u5361",
+        "description": "\u56db\u5ddd\u7701\u535a\u7269\u9986",
+        "amount": "JP\u00a50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.052845,
+          30.662639
+        ]
+      },
+      "properties": {
+        "year": 2024,
+        "month": 1,
+        "day": 25,
+        "category": "\ud83d\uddfa\ufe0f\u6253\u5361",
+        "description": "\u4f4f\u5bbf",
+        "amount": "JP\u00a50"
+      }
     }
   ]
 }
