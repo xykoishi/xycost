@@ -13992,24 +13992,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.418267,
-          39.985873
-        ]
-      },
-      "properties": {
-        "year": 2023,
-        "month": 12,
-        "day": 23,
-        "category": "\ud83d\uded2\u751f\u6d3b\u8d39",
-        "description": "\u7a7a\u6e2f\u6613\u884c",
-        "amount": "JP\u00a56.2"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           116.418275,
           39.98588
         ]
@@ -14181,7 +14163,7 @@
         "month": 1,
         "day": 22,
         "category": "\ud83d\uddfa\ufe0f\u6253\u5361",
-        "description": "\u7ef4\u4e5f\u7eb3\u56fd\u9645\u9152\u5e97",
+        "description": "\u9526\u8f89\u5e7f\u573a",
         "amount": "JP\u00a50"
       }
     },
