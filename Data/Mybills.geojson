@@ -14580,6 +14580,60 @@
         "description": "new balance 990",
         "amount": "JP\u00a51999"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.762506,
+          24.523586
+        ]
+      },
+      "properties": {
+        "year": 2024,
+        "month": 2,
+        "day": 26,
+        "category": "\ud83d\udef8\u5176\u4ed6",
+        "description": "\u52a8\u8f66",
+        "amount": "JP\u00a534"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.762506,
+          24.523586
+        ]
+      },
+      "properties": {
+        "year": 2024,
+        "month": 2,
+        "day": 26,
+        "category": "\ud83d\udef8\u5176\u4ed6",
+        "description": "\u6606\u660e\u98de\u6210\u90fd",
+        "amount": "JP\u00a5610"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.762506,
+          24.523586
+        ]
+      },
+      "properties": {
+        "year": 2024,
+        "month": 2,
+        "day": 26,
+        "category": "\ud83d\udef8\u5176\u4ed6",
+        "description": "\u4f4f\u5bbf",
+        "amount": "JP\u00a5325"
+      }
     }
   ]
 }
