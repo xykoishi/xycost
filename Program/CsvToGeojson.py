@@ -32,7 +32,6 @@ for i, p in enumerate(PointsData):
     lat, lon = p['纬度'], p['经度']
     ft = Feature(geometry = Point((float(lon), float(lat),)),
          properties = {'year': int(p['年']), 'month': int(p['月']), 'day': int(p['日']),
-                        'category': p['类别'], 'description': p['描述'], 'amount': p['金额'],
                         #'marker-size': 'medium','marker-symbol': ''
                         })
     ft_all.append(ft)
