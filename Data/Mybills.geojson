@@ -17820,6 +17820,201 @@
         "month": 6,
         "day": 10
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.83391,
+          22.675137
+        ]
+      },
+      "properties": {
+        "year": 2024,
+        "month": 6,
+        "day": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.833305,
+          22.675302
+        ]
+      },
+      "properties": {
+        "year": 2024,
+        "month": 6,
+        "day": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.822714,
+          22.672012
+        ]
+      },
+      "properties": {
+        "year": 2024,
+        "month": 6,
+        "day": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.834313,
+          22.674488
+        ]
+      },
+      "properties": {
+        "year": 2024,
+        "month": 6,
+        "day": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.834312,
+          22.674618
+        ]
+      },
+      "properties": {
+        "year": 2024,
+        "month": 6,
+        "day": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.834343,
+          22.67466
+        ]
+      },
+      "properties": {
+        "year": 2024,
+        "month": 6,
+        "day": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.834152,
+          22.674465
+        ]
+      },
+      "properties": {
+        "year": 2024,
+        "month": 6,
+        "day": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.834254,
+          22.674494
+        ]
+      },
+      "properties": {
+        "year": 2024,
+        "month": 6,
+        "day": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.83426,
+          22.67448
+        ]
+      },
+      "properties": {
+        "year": 2024,
+        "month": 6,
+        "day": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.834289,
+          22.674502
+        ]
+      },
+      "properties": {
+        "year": 2024,
+        "month": 6,
+        "day": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.834282,
+          22.674525
+        ]
+      },
+      "properties": {
+        "year": 2024,
+        "month": 6,
+        "day": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.834255,
+          22.674516
+        ]
+      },
+      "properties": {
+        "year": 2024,
+        "month": 6,
+        "day": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.834293,
+          22.674535
+        ]
+      },
+      "properties": {
+        "year": 2024,
+        "month": 6,
+        "day": 13
+      }
     }
   ]
 }
